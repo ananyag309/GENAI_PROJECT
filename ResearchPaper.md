@@ -29,3 +29,7 @@ Shows how generative models can: translate teaching content, simplify explanatio
 GAIDE introduces a framework that uses generative AI to assist teachers in creating course content, assignments, and teaching materials automatically.
 The system reduces educator workload while maintaining pedagogical structure and high-quality instructional design.
 
+### 9. [Transforming Learning with Generative AI: From Student Perceptions to the Design of an Educational Solution](https://www.mdpi.com/3322376)
+This paper proposes a generative AI-based adaptive learning platform architecture that dynamically generates educational content based on student needs.
+The research demonstrates how generative models can improve personalized learning and academic performance.
+
