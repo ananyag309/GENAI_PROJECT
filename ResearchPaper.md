@@ -1,3 +1,7 @@
 ### 1. [Role of Video Content Generation in Education Systems Using Generative AI](https://www.igi-global.com/chapter/role-of-video-content-generation-in-education-systems-using-generative-ai/348812)
 
 This chapter explains how **Generative AI can automatically create educational videos** to support teaching and learning. Using models such as **Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and diffusion models**, AI can generate visual explanations, animations, and instructional videos from prompts or datasets. These technologies help teachers produce engaging learning materials quickly, enhance student understanding, and enable personalized learning experiences, although challenges such as computational cost and ethical concerns remain. :contentReference[oaicite:0]{index=0}
+
+### 2. [Generative AI and ChatGPT in School Children’s Education](https://www.mdpi.com/2071-1050/15/18/14025)
+
+This study explores the use of **Generative AI, particularly ChatGPT**, in primary school education. A case study with **110 students aged 8–14** showed that AI-generated learning materials such as texts, exercises, and visuals can be personalized according to students’ knowledge levels and interests. The results indicate that generative AI can improve engagement, support personalized learning, and enhance understanding, though responsible use and further research are needed for effective classroom integration. :contentReference[oaicite:0]{index=0}
