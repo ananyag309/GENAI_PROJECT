@@ -25,3 +25,7 @@ Its novelty lies in combining learner, teacher, and evaluator agents to create h
 ### 7. [The Role of Generative AI in Multilingual Education](https://www.ijirmps.org/papers/2025/1/232247.pdf)
 Shows how generative models can: translate teaching content, simplify explanations, support learning in local languages.
 
+### 8. [GAIDE: A Framework for Using Generative AI to Assist in Course Content Development](https://arxiv.org/abs/2308.12276)
+GAIDE introduces a framework that uses generative AI to assist teachers in creating course content, assignments, and teaching materials automatically.
+The system reduces educator workload while maintaining pedagogical structure and high-quality instructional design.
+
