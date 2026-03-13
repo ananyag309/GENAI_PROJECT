@@ -17,3 +17,8 @@ This study explores the **opportunities and challenges of integrating Generative
 ### 5. [Generative AI for Customizable Learning Experiences](https://www.mdpi.com/2071-1050/16/7/3034)
 
 This paper discusses how **Generative AI can support personalized learning by automatically creating customized educational materials**. The study proposes an affordable and sustainable approach where AI generates learning content tailored to students’ needs, learning pace, and abilities. By enabling adaptive and individualized instruction, generative AI can improve learning outcomes and make personalized education more practical in modern educational systems. This study explores the **opportunities and challenges of integrating Generative AI (GenAI) in educational environments**. Based on feedback from 76 educators, the research shows that GenAI can support teaching, learning, administration, and assessment by helping generate educational content and assisting instructional processes. However, successful adoption depends on factors such as **school readiness, teachers’ AI competencies, and students’ AI literacy and ethics**. The study suggests strategies like professional training, clear guidelines, and technical support to help schools effectively integrate GenAI into education systems. 
+
+### 6. [Teacher-Centred LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2508.11401)
+This paper proposes a teacher-centered multi-agent system that automatically generates personalized worksheets by modeling different student abilities and motivation levels.
+Its novelty lies in combining learner, teacher, and evaluator agents to create high-quality, adaptive learning materials that reduce teacher workload while supporting diverse classrooms.
+
