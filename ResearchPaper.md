@@ -22,3 +22,6 @@ This paper discusses how **Generative AI can support personalized learning by au
 This paper proposes a teacher-centered multi-agent system that automatically generates personalized worksheets by modeling different student abilities and motivation levels.
 Its novelty lies in combining learner, teacher, and evaluator agents to create high-quality, adaptive learning materials that reduce teacher workload while supporting diverse classrooms.
 
+### 7. [The Role of Generative AI in Multilingual Education](https://www.ijirmps.org/papers/2025/1/232247.pdf)
+Shows how generative models can: translate teaching content, simplify explanations, support learning in local languages.
+
