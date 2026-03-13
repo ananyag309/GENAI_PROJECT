@@ -12,4 +12,8 @@ This paper explores how **Generative AI tools like ChatGPT can assist in educati
 
 ### 4. [Opportunities, Challenges and School Strategies for Integrating Generative AI in Education](https://www.sciencedirect.com/science/article/pii/S2666920X2500013X)
 
+### 5. [Generative AI for Customizable Learning Experiences](https://www.mdpi.com/2071-1050/16/7/3034)
+
+This paper discusses how **Generative AI can support personalized learning by automatically creating customized educational materials**. The study proposes an affordable and sustainable approach where AI generates learning content tailored to students’ needs, learning pace, and abilities. By enabling adaptive and individualized instruction, generative AI can improve learning outcomes and make personalized education more practical in modern educational systems. :contentReference[oaicite:0]{index=0}
+
 This study explores the **opportunities and challenges of integrating Generative AI (GenAI) in educational environments**. Based on feedback from 76 educators, the research shows that GenAI can support teaching, learning, administration, and assessment by helping generate educational content and assisting instructional processes. However, successful adoption depends on factors such as **school readiness, teachers’ AI competencies, and students’ AI literacy and ethics**. The study suggests strategies like professional training, clear guidelines, and technical support to help schools effectively integrate GenAI into education systems. :contentReference[oaicite:0]{index=0}
