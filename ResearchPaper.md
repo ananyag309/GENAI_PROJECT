@@ -5,3 +5,7 @@ This chapter explains how **Generative AI can automatically create educational v
 ### 2. [Generative AI and ChatGPT in School Children’s Education](https://www.mdpi.com/2071-1050/15/18/14025)
 
 This study explores the use of **Generative AI, particularly ChatGPT**, in primary school education. A case study with **110 students aged 8–14** showed that AI-generated learning materials such as texts, exercises, and visuals can be personalized according to students’ knowledge levels and interests. The results indicate that generative AI can improve engagement, support personalized learning, and enhance understanding, though responsible use and further research are needed for effective classroom integration. :contentReference[oaicite:0]{index=0}
+
+### 3. [Teaching with Generative AI: Moving Forward with Content Creation](https://ubiquityproceedings.com/articles/10.5334/uproc.157)
+
+This paper explores how **Generative AI tools like ChatGPT can assist in educational course content creation**. The study evaluates AI-generated outputs for tasks such as brainstorming ideas, generating course outlines, drafting learning materials, and supporting assessment design. The results show that generative AI can produce useful first drafts and structured content quickly, helping educators streamline curriculum development, although human review is still necessary to ensure accuracy and quality. :contentReference[oaicite:0]{index=0}
